@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --windowed --onefile --name "KPlayer" --icon "assets/logo_256.png" --add-data "assets;assets" --collect-all PySide6 main.py
