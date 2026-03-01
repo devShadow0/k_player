@@ -3,6 +3,8 @@
 
 A sleek, modern, and minimalist offline music player built with Python. KPlayer features a custom frameless UI, live search, persistent multi-folder library management.
 
+![Demo](demo.png)
+
 ## ✨ Features
 
 * **Modern Frameless UI:** Custom translucent design with smooth rounded corners, dark mode aesthetics, and a draggable header.
@@ -32,4 +34,4 @@ KPlayer/
 ```
 ---
 
-**Author:** Kaushal Prakash
+**Author:** devShadow0
